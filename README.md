@@ -1,5 +1,12 @@
 ### Hi there, welcome to my profile 👋
 
+#### I'm Hernan Case. I'm a Full Stack developer specialized in Frontend👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
+
+- 🔭 I’m currently working on ReactNative Project with friends and in a TV stream react app
+- 🌱 I’m currently learning C++ and 
+- 🤔 I’m looking for help with API Rest design good practices
+- 📫 How to reach me: her.case@live.com.ar
+
 <!--
 **hercase/hercase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
