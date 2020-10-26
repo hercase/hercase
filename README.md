@@ -7,6 +7,7 @@
 - 🤔 I’m looking for help with API Rest design good practices
 - 📫 How to reach me: her.case@live.com.ar
 - ⚡ My play area: https://codepen.io/hercase/pens/
+- 🌐 My portfolio: https://hernancase.com/
 
 <!--
 **hercase/hercase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
