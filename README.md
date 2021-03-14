@@ -2,9 +2,8 @@
 
 #### I'm Hernan Case. I'm a Full Stack developer specialized in Frontend👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
 
-- 🔭 I’m currently working on ReactNative Project with friends and in a TV stream react app
-- 🌱 I’m currently learning TDD & improving my English skills.
-- 🤔 I’m looking for help with API Rest design good practices
+- 🔭 I’m currently working on ReactNative Project with friends and in the FEC (IT Community) website (http://frontend.cafe/)
+- 🌱 I’m currently learning TDD & Leadership skills.
 - 📫 How to reach me: hercase92@gmail.com
 - ⚡ My play area: https://codepen.io/hercase/pens/
 - 🌐 My portfolio: https://hernancase.com/
