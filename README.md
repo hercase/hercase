@@ -3,7 +3,7 @@
 #### I'm Hernan Case. I'm a Full Stack developer specialized in Frontend👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
 
 - 🔭 I’m currently working on a project with friends and in the FEC (IT Community) website (http://frontend.cafe/)
-- 🌱 I’m currently learning TDD & Leadership skills.
+- 🌱 I’m currently testing my Leadership skills.
 - 📫 How to reach me: hercase92@gmail.com
 - ⚡ My play area: https://codepen.io/hercase/pens/
 - 🌐 My portfolio: https://hernancase.com/
