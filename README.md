@@ -6,7 +6,7 @@
 - 🌱 I’m currently testing my Leadership skills.
 - 📫 How to reach me: hercase92@gmail.com
 - ⚡ My play area: https://codepen.io/hercase/pens/
-- 🌐 My portfolio: https://hernancase.com/
+- 🌐 My portfolio: https://hercase.vercel.app/
 
 <!--
 **hercase/hercase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
