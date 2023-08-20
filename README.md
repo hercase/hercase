@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on a project with friends and in the FEC (IT Community) website (http://frontend.cafe/)
 - 🌱 I’m currently testing my Leadership skills.
 - 📫 How to reach me: hercase92@gmail.com
-- ⚡ My play area: https://codepen.io/hercase/pens/
 - 🌐 My portfolio: https://hercase.vercel.app/
 
 <!--
