@@ -2,7 +2,7 @@
 
 **Tech Lead · Principal Software Engineer** at DEPT®. Fifteen years on the web, from founding an online store at 17 to owning frontend architecture for global brands. Remote from Argentina (UTC−3).
 
-Client work is under NDA, so the code stays private. Here you'll find what I build on my own time.
+Client work is under NDA, so the code stays private (that's the green on the graph below). These days I review about as much code as I write. Here you'll find what I build on my own time.
 
 #### 🚀 Side projects
 
@@ -11,8 +11,15 @@ Client work is under NDA, so the code stays private. Here you'll find what I bui
 
 #### 🛠️ What I work with
 
-Technical leadership: architecture, standards and tooling across teams, mentoring.
-React, Next.js, TypeScript, SSR/SSG, GraphQL, design systems, accessibility, Core Web Vitals. Headless CMS (Sanity, Contentful, Contentstack). AI-assisted engineering every day.
+- **Leadership:** frontend architecture, standards and tooling across teams, code review, mentoring.
+- **Frontend:** React 19, Next.js (App Router), TypeScript, Tailwind v4, shadcn/ui, TanStack Query/Table/Form, Zod, design systems, accessibility, Core Web Vitals.
+- **Platform:** Turborepo monorepos, GraphQL, headless CMS (Sanity, Contentful, Contentstack), Supabase, Drizzle, Vercel.
+- **Quality:** Storybook, Vitest, Playwright, ESLint/oxlint, CI on GitHub Actions.
+- **Also:** Swift/SwiftUI, Three.js, Astro.
+
+#### 🤖 How I use AI
+
+Every repo I lead ships with `CLAUDE.md` / `AGENTS.md`, so agents follow the same conventions as the team. Day to day: Claude Code and Cursor, MCP servers (shadcn, Supabase) wired into projects, and reusable agent skills.
 
 #### 📫 Find me
 
