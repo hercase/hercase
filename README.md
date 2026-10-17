@@ -1,25 +1,23 @@
-### Hi there, welcome to my profile 👋
+### Hi, I'm Hernan Case 👋
 
-#### I'm Hernan Case. I'm a Full Stack developer specialized in Frontend👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
+**Tech Lead · Principal Software Engineer** at DEPT®. Fifteen years on the web, from founding an online store at 17 to owning frontend architecture for global brands. Remote from Argentina (UTC−3).
 
-- 🔭 I’m currently working on a project with friends and in the FEC (IT Community) website (http://frontend.cafe/)
-- 🌱 I’m currently testing my Leadership skills.
-- 📫 How to reach me: hercase92@gmail.com
-- 🌐 My portfolio: https://hercase.vercel.app/
+Client work is under NDA, so the code stays private. Here you'll find what I build on my own time.
 
-<!--
-**hercase/hercase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🚀 Side projects
 
-Here are some ideas to get you started:
+- **[Calenbar](https://github.com/hercase/calenbar)**: your next meeting in the Mac menu bar, with a countdown and one-click join for Meet, Zoom and Teams. Native Swift. `brew install --cask hercase/calenbar/calenbar`
+- **[Teammaker](https://github.com/hercase/teammaker)**: paste the player list from the WhatsApp group, get two teams, share them as an image. No server, no sign-up. [teammaker.vercel.app](https://teammaker.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ What I work with
 
-![Snake animation](https://github.com/hercase/hercase/blob/output/github-contribution-grid-snake-dark.svg)
+Technical leadership: architecture, standards and tooling across teams, mentoring.
+React, Next.js, TypeScript, SSR/SSG, GraphQL, design systems, accessibility, Core Web Vitals. Headless CMS (Sanity, Contentful, Contentstack). AI-assisted engineering every day.
+
+#### 📫 Find me
+
+[hercase.vercel.app](https://hercase.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/hercase/) · hercase92@gmail.com
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hercase/hercase/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/hercase/hercase/output/github-contribution-grid-snake.svg">
+</picture>
