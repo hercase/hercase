@@ -23,7 +23,11 @@ Most of my learning time goes into AI-assisted engineering, and I lead how my te
 
 #### 🧪 On the side
 
-[Calenbar](https://github.com/hercase/calenbar), your next meeting in the Mac menu bar · [Teammaker](https://github.com/hercase/teammaker), two teams out of a WhatsApp player list
+With AI, the stack is no longer the limit: I pick whatever fits the idea. What I bring is the thinking and the taste.
+
+- [Calenbar](https://github.com/hercase/calenbar): your next meeting in the Mac menu bar. *Swift*
+- [Teammaker](https://github.com/hercase/teammaker): two teams out of a WhatsApp player list. *Next.js*
+- [Turbo Ability Draft](https://github.com/hercase/turbo-ability-draft): a Dota 2 custom game, ability draft under Turbo rules. *TypeScript → Lua*
 
 #### 📫 Find me
 
