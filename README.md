@@ -2,12 +2,16 @@
 
 **Tech Lead · Principal Software Engineer** at DEPT®. Fifteen years on the web, from founding an online store at 17 to owning frontend architecture for global brands. Remote from Argentina (UTC−3).
 
-Client work is under NDA, so the code stays private (that's the green on the graph below). These days I review about as much code as I write. Here you'll find what I build on my own time.
+Client work is under NDA, so the code stays private (that's the green on the graph below). These days I review about as much code as I write.
 
-#### 🚀 Side projects
+#### 🤖 AI in the team
 
-- **[Calenbar](https://github.com/hercase/calenbar)**: your next meeting in the Mac menu bar, with a countdown and one-click join for Meet, Zoom and Teams. Native Swift. `brew install --cask hercase/calenbar/calenbar`
-- **[Teammaker](https://github.com/hercase/teammaker)**: paste the player list from the WhatsApp group, get two teams, share them as an image. No server, no sign-up. [teammaker.vercel.app](https://teammaker.vercel.app/)
+Most of my learning time goes into AI-assisted engineering, and I lead how my teams set it up:
+
+- **Rules:** every repo ships with `CLAUDE.md` / `AGENTS.md` and editor rules, so agents follow the same conventions as the people.
+- **MCP:** servers wired into each project (shadcn, Supabase, and whatever the stack needs), so agents work with real context.
+- **Skills:** reusable agent skills for the team's repeatable work.
+- **Tools:** Claude Code and Cursor, every day.
 
 #### 🛠️ What I work with
 
@@ -17,9 +21,9 @@ Client work is under NDA, so the code stays private (that's the green on the gra
 - **Quality:** Storybook, Vitest, Playwright, ESLint/oxlint, CI on GitHub Actions.
 - **Also:** Swift/SwiftUI, Three.js, Astro.
 
-#### 🤖 How I use AI
+#### 🧪 On the side
 
-Every repo I lead ships with `CLAUDE.md` / `AGENTS.md`, so agents follow the same conventions as the team. Day to day: Claude Code and Cursor, MCP servers (shadcn, Supabase) wired into projects, and reusable agent skills.
+[Calenbar](https://github.com/hercase/calenbar), your next meeting in the Mac menu bar · [Teammaker](https://github.com/hercase/teammaker), two teams out of a WhatsApp player list
 
 #### 📫 Find me
 
