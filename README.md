@@ -17,4 +17,5 @@ React, Next.js, TypeScript, SSR/SSG, GraphQL, design systems, accessibility, Cor
 #### 📫 Find me
 
 [hercase.vercel.app](https://hercase.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/hercase/) · hercase92@gmail.com
+
 ![Snake eating my contribution graph](https://raw.githubusercontent.com/hercase/hercase/output/github-contribution-grid-snake-dark.svg)
